@@ -1,6 +1,6 @@
 ---
 name: visual-prototype
-description: Use when a feature's open questions are visual — how a screen looks, moves, or behaves — and the project already has a running UI with its own design system. Triggers include "design this", "how should it look", "mock this up", "prototype the screen", a user who reacts to pixels rather than descriptions, and any UI change where two reasonable layouts exist.
+description: Use when a feature's open questions are visual — how a screen looks, moves, or behaves — and the project already has a running UI with its own design system. Triggers include "design this", "how should it look", "mock this up", "prototype the screen", "нарисуй прототип", "придумай как это должно выглядеть", a user who reacts to pixels rather than descriptions, and any UI change where two reasonable layouts exist.
 ---
 
 # Prototyping Visual Decisions

@@ -68,6 +68,8 @@ The skill triggers on its own when the project already has a running UI and the 
 > how should the room card look when the title is long?
 >
 > prototype the new filter sheet
+>
+> нарисуй прототип экрана настроек
 
 You can also name it directly: *"use visual-prototype for the settings screen"*.
 
